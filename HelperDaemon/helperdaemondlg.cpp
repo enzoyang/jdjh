@@ -200,5 +200,5 @@ void CHelperDaemonDlg::OnBnClickedBtnLinkBlog()
 
 void CHelperDaemonDlg::OnBnClickedBtnLinkSrc()
 {
-	::ShellExecute(NULL,_T("open"),_T("https://github.com/yzb2002/ezjh"),NULL,NULL,SW_SHOWNORMAL);
+	::ShellExecute(NULL,_T("open"),_T("https://github.com/yzb2002/jdjh"),NULL,NULL,SW_SHOWNORMAL);
 }
