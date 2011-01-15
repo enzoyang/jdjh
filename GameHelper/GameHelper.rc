@@ -79,13 +79,13 @@ BEGIN
     BEGIN
         BLOCK "080403a8"
         BEGIN
-            VALUE "CompanyName", "TODO: <公司名>"
-            VALUE "FileDescription", "TODO: <文件说明>"
+            VALUE "CompanyName", "二手程序员"
+            VALUE "FileDescription", "简单江湖注入动态链接库"
             VALUE "FileVersion", "1.0.0.1"
             VALUE "InternalName", "GameHelper.dll"
-            VALUE "LegalCopyright", "TODO: (C) <公司名>。保留所有权利。"
+            VALUE "LegalCopyright", "二手程序员同志保留所有权利。"
             VALUE "OriginalFilename", "GameHelper.dll"
-            VALUE "ProductName", "TODO: <产品名>"
+            VALUE "ProductName", "简单江湖"
             VALUE "ProductVersion", "1.0.0.1"
         END
     END
