@@ -1,0 +1,15 @@
+*.exe
+*.obj
+*.ilk
+*.exp
+*.dep
+*.idb
+*.pdb
+*.lib
+*.dll
+*.ncb
+build/
+GameHelper/Debug/
+GameHelper/Release/
+HelperDaemon/Debug/
+HelperDaemon/Release/
