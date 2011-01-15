@@ -22,7 +22,11 @@ CDialogMain::~CDialogMain()
 
 BOOL CDialogMain::InitPages()
 {
-
+	m_tabMain.InsertItem(0,_T("基本"));
+	m_tabMain.InsertItem(1,_T("保护"));
+	m_tabMain.InsertItem(2,_T("挂机"));
+	m_tabMain.InsertItem(2,_T("其他"));
+	return true;
 }
 
 BOOL CDialogMain::OnInitDialog()

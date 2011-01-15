@@ -11,7 +11,6 @@
 #define IDC_BTN_SAVECONFIG              1003
 #define IDD_PAGE_PROTECT                1003
 #define IDD_PAGE_AUTO                   1004
-#define IDCANCEL                        1005
 #define IDD_PAGE_OTHER                  1005
 
 // Next default values for new objects
