@@ -32,5 +32,11 @@ public:
 	CPageBasic m_pageBasic;
 	CPageOther m_pageOther;
 	CPageProtect m_pageProtect;
+	//TAB[]
+	CDialog* m_Pages[4];
+	//Ñ¡ÔñµÄTAB
+	int m_iCurrentPage;
 
+public:
+	afx_msg void OnTcnSelchangeTabMain(NMHDR *pNMHDR, LRESULT *pResult);
 };
